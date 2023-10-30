@@ -2,11 +2,12 @@
 
 ## Introduction
 
-## In this project, we explore the development of a Color Graphics System using Python and the colorsys library. This system will enable us to manipulate colors, create gradients, and generate visually striking graphics, making it an invaluable resource for developers, artists, and designers.
+## Just for Fun.
 
 ## Demo
 
-![Uploading readme.PNG…]()
+![readme](https://github.com/nithushanmoham/python-in-colour-animation/assets/106969157/9617fcef-4473-4dd0-924f-034933a9e3bb)
+
 
 ## Setup
 
