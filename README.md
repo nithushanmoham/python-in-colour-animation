@@ -2,7 +2,7 @@
 
 ## Introduction
 
-## Just for Fun.
+The colour graphics system, Using python in 'Coloursys' library and Featurs is no nly just for fun.
 
 ## Demo
 
